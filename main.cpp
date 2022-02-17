@@ -1,4 +1,4 @@
-// C est le fichier principal
+// C est le fichier principal du jeu TV game. C'est un jeu de devinette de nombre caché.
 
 #include <stdio.h>
 
